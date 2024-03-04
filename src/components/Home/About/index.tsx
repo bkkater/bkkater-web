@@ -16,8 +16,8 @@ function About() {
           <b className='text-teal-500 dark:text-orange-400 font-semibold'>
             Front-end Developer
           </b>{' '}
-          ased in Brazil, I have a passion for creating beautiful and functional
-          user interfaces. I'm currently working at{' '}
+          based in Brazil, I have a passion for creating beautiful and
+          functional user interfaces. I'm currently working at{' '}
           <a
             href='https://dotlib.com/'
             className='decoration-solid dark:text-teal-500 text-orange-400 font-semibold'
