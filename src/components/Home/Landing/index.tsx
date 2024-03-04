@@ -35,7 +35,7 @@ function Landing() {
         <a
           href='https://www.linkedin.com/in/bkkater/'
           target='_blank'
-          className='p-2 dark:hover:bg-zinc-800 hover:bg-zinc-200 rounded transition-all hover:scale-105'
+          className='p-2 dark:bg-zinc-800 bg-zinc-200 rounded transition-all hover:scale-105'
         >
           <Linkedin size={30} className='dark:text-orange-500 text-sky-950' />
         </a>
@@ -43,7 +43,7 @@ function Landing() {
         <a
           href='https://github.com/bkkater'
           target='_blank'
-          className='p-2 dark:hover:bg-zinc-800 hover:bg-zinc-200 rounded hover:scale-105 transition-all'
+          className='p-2 dark:bg-zinc-800 bg-zinc-200 rounded hover:scale-105 transition-all'
         >
           <Github size={30} className='dark:text-orange-500 text-sky-950' />
         </a>
