@@ -29,7 +29,7 @@ function Landing() {
         </h1>
       </div>
 
-      <img src={isDarkTheme ? IllDev : IllLigthDev} />
+      <img src={isDarkTheme ? IllDev : IllLigthDev} loading='eager' />
 
       <div className='absolute bottom-20 left-0 flex gap-8'>
         <a
