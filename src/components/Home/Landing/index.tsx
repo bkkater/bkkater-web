@@ -20,10 +20,10 @@ function Landing() {
           BIANCA MEDEIROS
         </span>
 
-        <h1 className='dark:text-teal-400 text-orange-500 text-8xl'>
+        <h1 className='dark:text-teal-400 text-orange-500  text-8xl'>
           <span className='flex gap-4'>
             DEV
-            <span className='dark:bg-teal-500 bg-orange-500 bg text-xl text-zinc-300 rounded-full my-auto w-10 h-10 flex items-center justify-center'>{`</>`}</span>
+            <span className='dark:bg-teal-500 bg-orange-500 text-xl text-zinc-300 rounded-full my-auto w-10 h-10 flex items-center justify-center'>{`</>`}</span>
           </span>
           FRONT-END
         </h1>

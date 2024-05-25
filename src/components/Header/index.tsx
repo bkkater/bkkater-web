@@ -10,7 +10,7 @@ const Header = () => {
   const { toggleTheme, isDarkTheme } = useTheme();
 
   return (
-    <div className='bg-zinc-200 border-zinc-100 dark:bg-zinc-800 border-b-2 dark:border-zinc-700'>
+    <header className='bg-zinc-200 border-zinc-100 dark:bg-zinc-800 border-b-2 dark:border-zinc-700'>
       <div className='container m-auto flex flex-row items-center justify-between text-sm h-16  '>
         <div className='flex gap-8 uppercase text-sm'>
           <a href='#home'>Home</a>
@@ -56,7 +56,7 @@ const Header = () => {
           </button>
         </div>
       </div>
-    </div>
+    </header>
   );
 };
 
